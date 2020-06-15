@@ -1,0 +1,8 @@
+{
+  "name": "timeout-promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ekschro/timeout-promise.git",
+  "author": "Ericsson Schroeter <ekschro@protonmail.com>",
+  "license": "MIT"
+}
