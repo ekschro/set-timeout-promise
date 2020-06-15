@@ -3,7 +3,7 @@
 
 ### Example:
 ```js
-  const { timeout } = require('timeout-promise');
+  const { timeout } = require('set-timeout-promise');
 
   (async () => {
     console.log('Hello, ');
