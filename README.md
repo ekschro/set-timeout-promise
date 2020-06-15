@@ -1,7 +1,12 @@
-# timeout-promise
+# timeout-promisified
 ### Delay inside asynchronous code...
 
-### Example:
+### Installation
+```shell
+  yarn add timeout-promisified
+```
+
+### Example
 ```js
   const { timeout } = require('timeout-promisified');
 
